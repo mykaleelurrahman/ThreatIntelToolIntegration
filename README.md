@@ -1,6 +1,6 @@
 # ThreatIntelToolIntegration
 ## Tools:
-Cymon
-DomainTools
-SiloBreaker
-VirusTotal
+<li>Cymon</li>
+<li>DomainTools</li>
+<li>SiloBreaker</li>
+<li>VirusTotal</li>
