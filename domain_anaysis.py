@@ -2,10 +2,10 @@
 import re
 domains = ["www.toptrust.com", "www.tamarind.com", "www.helloworld.in","optrustooo.ooo"]
 
-optrust_matched = []
+d_matched = []
 for i in domains:
-    if re.search('optrust', i, re.IGNORECASE):
-        optrust_matched.append(i)
+    if re.search('trust', i, re.IGNORECASE):
+        d_matched.append(i)
 
-print(optrust_matched)
+print(d_matched)
 
